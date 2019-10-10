@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eigaeshaxi.alirabiosensing.com/sitemap.xml
